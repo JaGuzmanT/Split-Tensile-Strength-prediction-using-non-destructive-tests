@@ -11,4 +11,6 @@ Type of problem: Supervised and Regression problem
 
 Regressor: Deep Neural Network, DNN for short.
 
+##Note: Wheter you need to prove your own dataset, you just need to change the name of the file.csv in the first notebook according to the name of your file.
+
 
